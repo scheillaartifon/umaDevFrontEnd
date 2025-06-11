@@ -4,4 +4,4 @@ Guia completo de links de sites, livros, cursos e dicas em geral para facilitar 
 ### Programas de impulsionamento de carreira e cursos (Para mulheres)
 * [Ada Tech](https://ada.tech)
 * [Reprograma](https://reprograma.com.br)
-* [WoMakersCode]([https://www.maismulheres.tech](https://www.maismulheres.tech/collections))
+* [WoMakersCode](https://www.maismulheres.tech/collections)
