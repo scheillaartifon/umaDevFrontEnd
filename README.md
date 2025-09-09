@@ -14,5 +14,8 @@ Este guia nasceu da necessidade de organizar a grande quantidade de links que eu
 * [Entendendo Algoritmos](https://www.amazon.com.br/Entendendo-Algoritmos-Ilustrado-Programadores-Curiosos/dp/8575225634)
 * [Código Limpo (Clean Code)](https://www.amazon.com.br/Código-limpo-Robert-C-Martin/dp/8576082675)
 
+### Backend
+* [Curso de ruby](https://www.youtube.com/watch?v=2js9Q_BMD-8&list=PLdDT8if5attEOcQGPHLNIfnSFiJHhGDOZ)
+
 ### Outros
 * [Guia fullstack](https://github.com/arthurspk/guiadevbrasil)
