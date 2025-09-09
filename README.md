@@ -9,3 +9,6 @@ Guia completo de links de sites, livros, cursos e dicas em geral para facilitar 
 ### Livros
 * [Entendendo Algoritmos](https://www.amazon.com.br/Entendendo-Algoritmos-Ilustrado-Programadores-Curiosos/dp/8575225634)
 * [Código Limpo (Clean Code)](https://www.amazon.com.br/Código-limpo-Robert-C-Martin/dp/8576082675)
+
+### Outros
+* [Onde esse guia foi inspirado](https://github.com/arthurspk/guiadevbrasil)
