@@ -15,4 +15,4 @@ Este guia nasceu da necessidade de organizar a grande quantidade de links que eu
 * [Código Limpo (Clean Code)](https://www.amazon.com.br/Código-limpo-Robert-C-Martin/dp/8576082675)
 
 ### Outros
-* [Onde esse guia foi inspirado](https://github.com/arthurspk/guiadevbrasil)
+* [Guia fullstack](https://github.com/arthurspk/guiadevbrasil)
