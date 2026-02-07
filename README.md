@@ -29,7 +29,12 @@ Este guia nasceu da necessidade de organizar a grande quantidade de links que eu
 #### UX Research
 * [Case - Template de como criar um bom case de UX](https://medium.com/@lbrezende/5d9e3eee184)
 * [Case - Pesquisas quantitativas para UX na prática](https://andrewallacemf.medium.com/pesquisas-quantitativas-para-ux-na-prática-605c27c2b117)
-* 
+
+### Como escolher minhas cores
+* [Coolors - Gerador de paleta automatico](https://coolors.co)
+* [Adobe Color - Gerador de paleta automatico](https://color.adobe.com/pt/create/color-wheel)
+* [Colordot - Gerador de paleta manual](https://color.hailpixel.com)
+* [Pigment - Paletas prontas](https://pigment.shapefactory.co)
 
 ### Backend
 * [Curso de ruby](https://www.youtube.com/watch?v=2js9Q_BMD-8&list=PLdDT8if5attEOcQGPHLNIfnSFiJHhGDOZ)
